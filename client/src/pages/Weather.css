@@ -1,0 +1,68 @@
+.weather {
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: white;
+  margin-left: 200px;
+}
+
+.label {
+  background-color: #0f0156;
+  color: white;
+  width: 20vw;
+  margin: 30px 20px;
+  border-radius: 10px;
+  height: auto;
+  color: white;
+  padding: 20px;
+}
+
+.label2 {
+  background-color: #137000;
+  color: white;
+  width: 20vw;
+  margin: 30px 20px;
+  border-radius: 10px;
+  height: auto;
+  color: white;
+  padding: 20px;
+}
+
+.option {
+  background-color: #0f0156;
+  width: 25vw;
+  margin: 50px 50px;
+  cursor: pointer;
+  transition: 0.5s all ease-in-out;
+}
+
+.option:hover {
+  background-color: rgb(1, 38, 86);
+  margin: 35px 50px;
+}
+
+.optionImage {
+  width: 20vw;
+  margin-left: 30px;
+  padding: 20px;
+}
+
+.people {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.labelImg {
+  width: 16vw;
+  margin-left: 10px;
+  object-fit: contain;
+}
+.widthMax {
+  width: 16vw;
+  margin-left: 10px;
+}

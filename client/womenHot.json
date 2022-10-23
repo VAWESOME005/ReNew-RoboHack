@@ -1,0 +1,23 @@
+[
+  {
+    "temp": "hot",
+    "image_url": "https://static.wearpact.com/img/product/women/wyv-acd-2-1660579028_thumb.jpg",
+    "product_details": "https://wearpact.com/women/apparel/tops%20&%20shirts/far-out%20tie-dye%20tee/wa1-wyv-acd"
+  },
+  {
+    "temp": "hot",
+    "image_url": "https://static.wearpact.com/img/product/women/wyn-lti-2-1654199584_thumb.jpg",
+    "product_details": "https://wearpact.com/women/apparel/tops%20&%20shirts/far-out%20tie-dye%20tank/wa1-wyn-lti"
+  }, 
+  {
+    "temp" : "hot",
+    "image_url" : "https://static.wearpact.com/img/product/women/wvn-blk-1-1626205736_thumb.jpg",
+    "product_details" : "https://wearpact.com/women/apparel/tops%20&%20shirts/softspun%20v-neck%20tee/wa1-wvn-blk"
+  },
+
+  {
+    "temp" : "hot",
+    "image_url": "https://static.wearpact.com/img/product/women/weo-blk-2-1662146023_thumb.jpg",
+    "product_details" : "https://wearpact.com/women/apparel/tops%20&%20shirts/ribbed%20bra%20top/wa1-weo-blk"
+  }
+]

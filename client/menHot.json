@@ -1,0 +1,23 @@
+[
+  {
+    "temp": "hot",
+    "image_url": "https://static.wearpact.com/img/product/men/mhw-lak-1-1649773111_thumb.jpg",
+    "product_details": "https://wearpact.com/men/apparel/pants%20&%20shorts/clearance%20the%20everyday%20short/wa1-mhw-lak"
+  },
+  {
+    "temp": "hot",
+    "image_url": "https://static.wearpact.com/img/product/men/mvt-glb-1-1644334700_thumb.jpg",
+    "product_details": "https://wearpact.com/men/apparel/tops%20&%20shirts/clearance%20textured%20v-neck%20tee/wa1-mvt-glb"
+  }, 
+  {
+    "temp" : "hot",
+    "image_url" : "https://static.wearpact.com/img/product/men/mle-orh-2-1662051690_thumb.jpg",
+    "product_details" : "https://wearpact.com/men/apparel/pants%20&%20shorts/off%20duty%20short/wa1-mle-orh"
+  },
+
+  {
+    "temp" : "hot",
+    "image_url": "https://static.wearpact.com/img/product/men/mfw-chh-2-1659717672_thumb.jpg",
+    "product_details" : "https://wearpact.com/men/apparel/tops%20&%20shirts/softspun%20v-neck%20tee/wa1-mfw-chh"
+  }
+]

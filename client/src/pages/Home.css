@@ -1,0 +1,27 @@
+.bg {
+  background: url("../images/ReNewBg.png");
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.text {
+  color: white;
+  font-weight: 700;
+  margin-top: 200px;
+  /* margin-left: 100px; */
+  font-size: 70px;
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+.text2 {
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Fuzzy Bubbles", cursive;
+  margin-top: 20px;
+  margin-left: 310px;
+}

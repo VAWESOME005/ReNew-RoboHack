@@ -1,0 +1,89 @@
+.header {
+    display: flex;
+    background-color: white;
+    border-bottom: 0.5px solid lightgray;
+;
+    width: 100%;
+    height: 17vh;
+    padding: 20px;
+    z-index: 3;
+    /* justify-content: space-between */
+}
+
+.header_right {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signUp-btn {
+    background-color: rgb(232, 18, 121);
+    color: white;
+    border-color: white;
+    transition: all 0.5s ease-in;
+    border-radius: 999px;
+    width: 150px;
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.signUp-btn:hover {
+    color: white;
+    background-color: rgb(179, 12, 120);
+    border-color: rgb(179, 12, 120);
+}
+.signUp-btn:focus {
+    color: white;
+    background-color: rgb(179, 12, 120);
+    border-color: blue;
+}
+
+.logo-img {
+    width: 100px;
+    object-fit: contain;
+}
+
+.page {
+    display: inline-block;
+    position: relative;
+    color: rgb(179, 12, 120);
+    margin: 0 20px;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  
+  .page:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    color: rgb(179, 12, 120);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(179, 12, 120);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .page:hover:after {
+    transform: scaleX(1);
+    color: rgb(179, 12, 120);
+    transform-origin: bottom left;
+  }
+  
+  .page:hover {
+    color: rgb(179, 12, 120);
+  }
+
+.pages {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
